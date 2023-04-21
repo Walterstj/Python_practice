@@ -15,6 +15,7 @@ next_year = age + 1
 
 # print(type(name))
 # print(type(age))
+
 # 1.5 -> float
 # vrai/faux -> boolean (true/false)
 # str(30) -> "30"
